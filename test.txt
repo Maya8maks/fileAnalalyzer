@@ -1,0 +1,3 @@
+In this article, we explored simple ways to copy data from an InputStream to an OutputStream.
+
+The implementation of these examples is available over on GitHub.
